@@ -39,7 +39,7 @@ Hệ thống giám sát tài xế theo thời gian thực sử dụng trí tuệ
 1. Clone repository:
 
 ```bash
-git clone https://github.com/yourusername/driver-monitoring.git
+git clone https://github.com/phucmouse135/giamsatATGT.git
 cd driver-monitoring
 ```
 
@@ -215,4 +215,4 @@ Các bộ dữ liệu công khai có thể được sử dụng:
 
 ## Liên hệ
 
-Nếu có bất kỳ câu hỏi hoặc góp ý nào, vui lòng liên hệ qua email: btlai@example.com 
+Nếu có bất kỳ câu hỏi hoặc góp ý nào, vui lòng liên hệ qua email: phucchuot37@gmail.com
